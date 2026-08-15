@@ -40,13 +40,13 @@ My current focus is on strengthening my technical skills, gaining real-world IT 
 
 ## 💻 Projects
 
-### 🌐 Website Project
-A website project developed as part of my practical learning journey.
+### 🌐 [Wig Laundry Website](https://github.com/nqobile-nkenjane/Wig-laundry-website)
+A simple business website for a wig laundry and hair maintenance service.  
+**Live Demo:** [View Website](https://nqobile-nkenjane.github.io/Wig-laundry-website/)  
+**Focus:** Website structure, user experience, basic web development (HTML & CSS)
 
-**Focus:** Website structure, user experience, design and basic web development.
-
-### 🎨 Design Thinking Project
-A practical project focused on understanding a problem, researching user needs, generating ideas and developing a solution.
+### 🎨 [Design Thinking Project](https://github.com/nqobile-nkenjane/Design-Thinking-Project)
+A practical project focused on understanding a problem, researching user needs, generating ideas and developing a solution using the Design Thinking process.
 
 More projects will be added as I continue building my technical experience.
 
